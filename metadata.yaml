@@ -12,11 +12,4 @@ display-name: Charm Template
 # (Required)
 summary: A very short one-line summary of the charm.
 
-description: |
-  A single sentence that says what the charm is, concisely and memorably.
-
-  A paragraph of one to three short sentences, that describe what the charm does.
-
-  A third paragraph that explains what need the charm meets.
-
-  Finally, a paragraph that describes whom the charm is useful for.
+description: A test charm
