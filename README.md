@@ -1,8 +1,26 @@
-# This repo/template is archived.
+<!--
+Avoid using this README file for information that is maintained or published elsewhere, e.g.:
 
-The initial purpose of this template was to test out possible alternatives to the `charmcraft init`
-defaults. Since this [PR](https://github.com/canonical/charmcraft/pull/932), the `charmcraft init`
-now supports 3 different profiles, all of which come with the same directory structure/layout as
-this template.
+* metadata.yaml > published on Charmhub
+* documentation > published on (or linked to from) Charmhub
+* detailed contribution guide > documentation or CONTRIBUTING.md
 
-Please use that in the future, and file any issues at https://github.com/canonical/charmcraft/issues/
+Use links instead.
+-->
+
+# test-charm-dg
+
+Charmhub package name: operator-template
+More information: https://charmhub.io/test-charm-dg
+
+Describe your charm in one or two sentences.
+
+## Other resources
+
+<!-- If your charm is documented somewhere else other than Charmhub, provide a link separately. -->
+
+- [Read more](https://example.com)
+
+- [Contributing](CONTRIBUTING.md) <!-- or link to other contribution documentation -->
+
+- See the [Juju SDK documentation](https://juju.is/docs/sdk) for more information about developing and improving charms.
