@@ -13,7 +13,7 @@ Use links instead.
 Charmhub package name: operator-template
 More information: https://charmhub.io/test-charm-dg
 
-Describe your charm in one or two sentences.
+Test Charm
 
 ## Other resources
 
